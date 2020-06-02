@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="namespace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ex2_42.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="namespace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_VirtualFunctions2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_VirtualFunctions1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_AbstractClasses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_SingleInheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_SingleInheritance2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_SingleInheritance3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_SingleInheritance4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_MultipleBaseClasses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_VirtualBaseClasses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_NameAmbiguities.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_Dominance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="access_specifiers_for_base_classes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="access_control.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="access_to_virtual_functions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_ExplicitOverrides.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_super.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deriv_interface.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="even_functor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="even_lambda.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex1._11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex1_9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex1_10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_42_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex3_2a.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataOnly .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Widget .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
